@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 rootProject.name = "ComposeComponents"
 include ':app'
 include ':helloworld'
+include ':text'
