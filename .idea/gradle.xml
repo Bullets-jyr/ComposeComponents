@@ -26,6 +26,7 @@
             <option value="$PROJECT_DIR$/surface" />
             <option value="$PROJECT_DIR$/text" />
             <option value="$PROJECT_DIR$/textfield" />
+            <option value="$PROJECT_DIR$/topappbar" />
           </set>
         </option>
       </GradleProjectSettings>
