@@ -25,6 +25,7 @@
             <option value="$PROJECT_DIR$/row" />
             <option value="$PROJECT_DIR$/surface" />
             <option value="$PROJECT_DIR$/text" />
+            <option value="$PROJECT_DIR$/textfield" />
           </set>
         </option>
       </GradleProjectSettings>
