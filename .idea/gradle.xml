@@ -14,11 +14,13 @@
             <option value="$PROJECT_DIR$/box" />
             <option value="$PROJECT_DIR$/boxwithconstraints" />
             <option value="$PROJECT_DIR$/button" />
+            <option value="$PROJECT_DIR$/card" />
             <option value="$PROJECT_DIR$/column" />
             <option value="$PROJECT_DIR$/helloworld" />
             <option value="$PROJECT_DIR$/image" />
             <option value="$PROJECT_DIR$/modifier" />
             <option value="$PROJECT_DIR$/networkimage" />
+            <option value="$PROJECT_DIR$/orientation" />
             <option value="$PROJECT_DIR$/row" />
             <option value="$PROJECT_DIR$/surface" />
             <option value="$PROJECT_DIR$/text" />
